@@ -4,7 +4,7 @@
 
 
 		
-			[position page=fore frame="bg12.png" margint=65 marginl=300 marginr=300 marginb=30 vertical=false ]
+			[position page=fore frame="bg123.png" margint=65 marginl=300 marginr=300 marginb=30 vertical=false ]
 		
 
 		[ptext name="chara_name_area" layer="message0" color=0xFFFFFF size=26 x=430 y=665 bold="bold"]

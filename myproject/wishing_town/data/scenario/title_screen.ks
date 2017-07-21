@@ -18,7 +18,7 @@
 [showmenubutton]
 
 [cm  ]
-[jump  storage="scene1.ks"  target=""  ]
+[jump  storage="scene001.ks"  target=""  ]
 [s  ]
 *load
 
