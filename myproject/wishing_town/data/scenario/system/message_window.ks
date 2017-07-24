@@ -4,16 +4,16 @@
 
 
 		
-			[position page=fore frame="bg123.png" margint=65 marginl=300 marginr=300 marginb=30 vertical=false ]
+			[position page=fore frame="bg1234.PNG" margint=80 marginl=300 marginr=300 marginb=30 vertical=false ]
 		
 
-		[ptext name="chara_name_area" layer="message0" color=0xFFFFFF size=26 x=430 y=665 bold="bold"]
+		[ptext name="chara_name_area" layer="message0" color=0xFFFFFF size=26 x=430 y=685 bold="bold"]
 
 		;キャラクターの表示モードに関する定義
 		[chara_config ptext="chara_name_area" pos_mode=true time="600" memory="false" anim="true" effect="easeInQuad" pos_change_time="600" ]
 
 		;キャラクターフォーカスなど
-		[chara_config  talk_focus="brightness" ]
+		[chara_config  talk_focus="none" ]
 
 		;クリック待ちボタンについて
 		[glyph fix="false" left="0" top="0" ]
