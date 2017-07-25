@@ -13,7 +13,7 @@ What?[l][ct]
 #???
 "Wake up!!"[l][ct]
 #
-Is there someone calling me? 
+Is there someone calling me?
 [l][r]  What is there for me to do this time?[l][ct]
 I would wake up grumpy, [r]but this time, it feels like I've slept too long I should better be awake.[l][ct]
 #???
@@ -50,19 +50,31 @@ I look around, trying to search for something to answer with. [l][r]
 But there is nothing but endless darkness and dust.[l][ct]
 There is barely any wind, how will anything survive or live in this kind of environment? [l][r]
 What more interesting, or strange, is how did I end up here?[l][r]
-And who is she standing here with me at this moment?[l][ct] 
+And who is she standing here with me at this moment?[l][ct]
 The temperature is a little cool but this rawness is giving me the chill from the inside.[l][ct]
 Where am I suppose to go? [l][r]
 What is this place? [l][r]
-And most importantly,[l][ct] 
-What are we supposed to do here?[l][ct] 
+And most importantly,[l][ct]
+What are we supposed to do here?[l][ct]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
 #???
-"Hello?"[l][ct] 
+"Hello?"[l][ct]
 #
-Her voice breaks my mess of thoughts, reminding me I have something to answer.[l][ct] 
+Her voice breaks my mess of thoughts, reminding me I have something to answer.[l][ct]
 "Where are we?" I asked the loudest question in my mind.[l][ct]
+#???
+"It seems to be a deadland. [l][r]I was heading to a town but it seems the teleportation had reached to you instead."[l][ct]
+#
+"Was I lying here alone as you arrived?" How this girl can teleport is the least of my concern. [l][ct]
+#???
+"Yes you were, but now you've got company.[l][r] The dead kind."[l][ct]
+#
+Is this supposed to be a joke? [r]
+I would try to laugh if she is trying to make this awful situation a little better.[r]
+Unless she is actually dead...[l][ct]
+#???
+"If you look around again, closely. I hope you are able to sense something."[l][ct]
 [_tb_end_tyrano_code]
 
