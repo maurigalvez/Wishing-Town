@@ -3,60 +3,66 @@
 [cm  ]
 [bg  time="3000"  method="crossfade"  storage="black.png"  ]
 [tb_show_message_window  ]
+[tb_start_tyrano_code]
 #???
-"Wake up!"[p]
+"Wake up!"[l][ct]
 #
-....[p]
+....[l][ct]
 #
-What?[p]
+What?[l][ct]
 #???
-"Wake up!!"[p]
+"Wake up!!"[l][ct]
 #
-Is there someone calling me? [l][r] What is there for me to do this time?[p]
-I would wake up grumpy, [r] but this time, it feels like I've slept too long I should better be awake.[p]
+Is there someone calling me? 
+[l][r]  What is there for me to do this time?[l][ct]
+I would wake up grumpy, [r]but this time, it feels like I've slept too long I should better be awake.[l][ct]
 #???
-"If you don't want to die! You better wake up now!"[p]
+"If you don't want to die! You better wake up now!" [l][ct]
 #
-This tone of threat, it sounds nothing like the usual wake up call. [r] Do things always have to be this serious? [l][r] Unwillingly, I decide to open my eyes and see who is doing the calling.[p]
-
+This tone of threat, it sounds nothing like the usual wake up call. [r]Do things always have to be this serious? [l][r]
+Unwillingly, I decide to open my eyes and see who is doing the calling.[l][ct]
+[_tb_end_tyrano_code]
 
 [bg  time="1000"  method="crossfade"  storage="dark_land.png"  ]
 [chara_mod  name="Ice"  time="600"  storage="chara/1/ice_neutral.png"  ]
 [chara_show  name="Ice"  time="500"  wait="true"  ]
+[tb_start_tyrano_code]
 #
-Who is this person?[p]
-Before I can make a clear sentence, [r]I cannot help but to notice her blue hair and uniform. They stand out so much I wonder if it is intentional.[p]
-She stands not far away from me, staring at me as if it is a trial. [l][r]I can feel her guard is up as if I am dangouers, [r]but her calmness shows that she would put me down instantly if I show any sign of threat.[p]
+Who is this person?[l][ct]
+Before I can make a clear sentence, I cannot help but to notice her blue hair and uniform. [r]I wonder if it is intentional.[l][ct]
+Her guard seems to be up, yet her calmness makes me feel that she is anticipating any aggressive action from me so she can put me down instantly.[l][ct]
+[_tb_end_tyrano_code]
 
+[tb_start_tyrano_code]
 #???
-"Can you speak?"[p]
-
+"Can you speak?"[l][ct]
 #
-Her voice breaks the silence in the air. It appears to be a simple question yet I wonder why is she asking.[p]
-
-
-
+Her voice sounds extra sharp with the silent background, [r]it takes me a few seconds to realize what she is asking.[l][ct]
 #
-"um. Yes, I can,"  I spoke with uncertainty.[p]
-
+"um. Yes, I can,"  I spoke with uncertainty.[l][ct]
 #???
-"Great!, do you know where you are?"[p]
-
+"Great!, do you know where you are?"[l][ct]
 #
-I look around, trying to search for something to answer with. [l][r]But there is nothing but endless darkness and dust.[p]
-There is barely any wind, but as I wonder why am I here alone with her in the middle of nowhere, [r]it gives me a chill down the spine.[p]
-I cannot help but to think how did I end up here? [r]Where am I suppose to go? [r]Who is this person? [r]And most importantly, [p]
-What are we supposed to do here?[p]
+I look around, trying to search for something to answer with. [l][r]
+[_tb_end_tyrano_code]
 
+[tb_start_tyrano_code]
+But there is nothing but endless darkness and dust.[l][ct]
+There is barely any wind, how will anything survive or live in this kind of environment? [l][r]
+What more interesting, or strange, is how did I end up here?[l][r]
+And who is she standing here with me at this moment?[l][ct] 
+The temperature is a little cool but this rawness is giving me the chill from the inside.[l][ct]
+Where am I suppose to go? [l][r]
+What is this place? [l][r]
+And most importantly,[l][ct] 
+What are we supposed to do here?[l][ct] 
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
 #???
-"Hello?"[p]
-
+"Hello?"[l][ct] 
 #
-Her voice breaks the silence once again, reminding me what am I suppose to answer.[p]
-"Where are we?" I managed not to panic and put all my thoughts into one question.[p]
-
-
-
-#
-
+Her voice breaks my mess of thoughts, reminding me I have something to answer.[l][ct] 
+"Where are we?" I asked the loudest question in my mind.[l][ct]
+[_tb_end_tyrano_code]
 
