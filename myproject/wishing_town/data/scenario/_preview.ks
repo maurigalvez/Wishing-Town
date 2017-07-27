@@ -1,25 +1,29 @@
 [_tb_system_call storage=system/_preview.ks ]
 
-[bg  time="10"  method="crossfade"  storage="dark_land.png"  ]
+[bg  time="10"  method="drop"  storage="dark_land.png"  ]
 [tb_show_message_window] 
 [chara_mod  name="Ice"  time="10"  storage="chara/1/ice_neutral.png"  ]
 [chara_show  name="Ice"  time="10"  wait="true"  ]
 [tb_start_tyrano_code]
+"What are they?"[l][ct]
 #???
-"Hello?"[l][ct]
+"Possibly the roamers of this land, but they are not here to welcome us."[l][ct]
 #
-Her voice breaks my mess of thoughts, reminding me I have something to answer.[l][ct]
-"Where are we?" I asked the loudest question in my mind.[l][ct]
-#???
-"It seems to be a deadland. [l][r]I was heading to a town but it seems the teleportation had reached to you instead."[l][ct]
-#
-"Was I lying here alone as you arrived?" How this girl can teleport is the least of my concern. [l][ct]
-#???
-"Yes you were, but now you've got company.[l][r] The dead kind."[l][ct]
-#
-Is this supposed to be a joke? [r]
-I would try to laugh if she is trying to make this awful situation a little better.[l][ct]
-#???
-"If you look around again, closely. I hope you can sense something."[l][ct]
+How can she still remains calm? I don't want to die here yet![l][r]
+Would I know some kind of magic too? What about combat skills?[l][r]
+Could we somehow talk our way out?[l][r]
+What about creating a distraction and find a way to escape?[l][ct]
+Damn it![l][r]
+Thoughts keep coming up and I can't shut it![l][r]
+There must be something I can do, there has to be! I just to stay focus![l][ct]
+...Wait![l][ct]
+"Can you..."[l][ct]
+"AAAAAAAAAAAAARH!" A strong hit landed on my shoulder.[l][r]
+I lost my balance immediately.[l][ct]
+She hit me down and raises her palm facing my direction.[l][r]
+Within a second, blue projectiles are coming out of her palm, shooting the unknown beast that is leaping onto my back.[l][ct]
+The projectiles eliminate every part of the beast as they pass through its body with ease.[l][ct]
+The beast seems to have a gas-form body, its remains slowly evaporate in the air upon the lethal strikes.[l][r]
+This bloodlust gas drifts towards the crowd of beast, slowly reforming another beast as it lands on the ground.[l][ct]
 [_tb_end_tyrano_code]
 
